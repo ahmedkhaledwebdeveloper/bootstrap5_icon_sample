@@ -1,0 +1,23 @@
+
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    background-color: mediumpurple;
+  	font-family: cursive;
+  	font-style: italic;
+  	font-size: 50px;
+  	font-weight: bold;  
+}
+
+
+i {
+	margin: 0 auto;
+	margin-left: 250px;
+    font-size: 100px;
+    color: blueviolet;
+
+}
+
